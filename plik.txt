@@ -1,2 +1,7 @@
 400 stopni C
+<<<<<<< HEAD
 średnia temperatura pazdiernika 14 stopni C
+=======
+Aniu kochana bardzo dobrze sobie radzisz.
+Brawo!
+>>>>>>> af0388a7e26a1d64bf67886e2d209a26bcd2fa15
